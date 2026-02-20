@@ -1,1 +1,2 @@
-SymbolExchange. C# Tutorials. Simple Input/Output. Algorithms. Strings. DotNet FrameWork Platform. Console Application. 
+SymbolExchange. C# Tutorials. Simple Input/Output. Strings. Algorithms. DotNet FrameWork Platform. Console Application. 
+SymbolExchange. Занятия по С#. Простой ввод/вывод. Строки. Алгоритмы. Платформа DotNet FrameWork. Консольное приложение.
