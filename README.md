@@ -5,4 +5,3 @@ Developed in the integrated environment Microsoft Visual Studio.
 SymbolExchange. Занятия по С#. Простой ввод/вывод. Строки. Алгоритмы. Платформа DotNet FrameWork. Консольное приложение.
 Программа меняет местами первый и последний символ строки, ведённой с клавиатуры.
 Разработано в нитегрированной среде Microsoft Visual Studio.
-
